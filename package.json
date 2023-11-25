@@ -50,7 +50,7 @@
     "date-fns": "2.0.0-alpha.22",
     "web3-eth": "^1.2.1",
     "web3-eth-abi": "^1.2.1",
-    "web3-utils": "^1.2.1"
+    "web3-utils": "^1.8.0"
   },
   "ava": {
     "require": [
